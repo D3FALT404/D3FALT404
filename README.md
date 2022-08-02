@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **we are going to die some day**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
