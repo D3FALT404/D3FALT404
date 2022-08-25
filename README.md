@@ -1,5 +1,5 @@
 <p style="text-align: center;">
-# 💫 About Me:
+#💫 About Me:
 <br>🌱 I’m currently learning front end stuff<br>💬 Ask me about c# asp.net core<br>⚡ Fun fact we are going to die some day
 
 
